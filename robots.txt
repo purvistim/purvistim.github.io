@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://purvistim.github.io/sitemap.html.gz
+Sitemap: https://purvistim.github.io/app/sitemap.html.gz
+Sitemap: https://purvistim.github.io/assets/sitemap.html.gz
+Sitemap: https://purvistim.github.io/css/sitemap.html.gz
+Sitemap: https://purvistim.github.io/includes/sitemap.html.gz
+Sitemap: https://purvistim.github.io/item/sitemap.html.gz
+Sitemap: https://purvistim.github.io/src/sitemap.html.gz
